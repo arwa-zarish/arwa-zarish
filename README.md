@@ -24,7 +24,8 @@
 
 - **[LIME-EMR](https://github.com/MSF-OCG/LIME-EMR)** -- OpenMRS 3 Distribution for Doctors Without Borders MSF Geneva - Made by Madiro.org
 - **[ngx-openmrs-formentry](https://github.com/AMPATH/ngx-openmrs-formentry)** -- Formentry library used in AMPATH POC.
-- **[openmrs-module-webservices.rest](https://github.com/openmrs/openmrs-module-webservices.rest)** -- Provides RESTful web services for OpenMRS REST API<!-- CONTRIBUTIONS-END -->
+- **[openmrs-module-webservices.rest](https://github.com/openmrs/openmrs-module-webservices.rest)** -- Provides RESTful web services for OpenMRS REST API
+<!-- CONTRIBUTIONS-END -->
 
 ## Connect
 
@@ -33,4 +34,5 @@
 ---
 
 <!-- UPDATED-START -->
+_Stats auto-updated 2026-03-23 13:42 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
